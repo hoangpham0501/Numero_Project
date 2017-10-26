@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\AndroidProject\Numero01\NumeroV2\app\subProject\json-simple-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5d6f9b6a9ddca2a28c0216cc44efb2e20d9c23b5">
+        <dex dex="D:\AndroidProject\Numero01\NumeroV2\app\build\intermediates\pre-dexed\debug\json-simple-1.1.1_503fa564795661bbc4612868f6e9365482bf6ddd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidProject\Numero01\Bubble-Shooter\app\subProject\json-simple-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5d6f9b6a9ddca2a28c0216cc44efb2e20d9c23b5">
+        <dex dex="D:\AndroidProject\Numero01\Bubble-Shooter\app\build\intermediates\pre-dexed\debug\json-simple-1.1.1_62f41834ffce21a8ef220e1363fd1181ffc412e6.jar" />
+    </item>
+
+</items>

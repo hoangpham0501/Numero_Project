@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/numero_mainmenu"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="bubble.shooter.MainMenuActivity"
+    android:weightSum="1">
+
+    <ImageButton
+        android:id="@+id/btnclassical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/numero_btn_play_classical"
+        android:onClick="classicalButton"
+        android:layout_marginTop="110dp"
+        android:layout_marginLeft="30dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+         />
+
+    <ImageButton
+        android:id="@+id/btnchallenge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/numero_btn_play_challenge"
+        android:onClick="challengeButton"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="30dp"
+        android:layout_marginBottom="20dp" />
+
+
+</RelativeLayout>

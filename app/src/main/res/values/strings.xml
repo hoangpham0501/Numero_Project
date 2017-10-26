@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Numero</string>
+
+    <string name="classical_mode">Classical Mode</string>
+    <string name="challenge_mode">Challenge Mode</string>
+</resources>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\AndroidProject\\Numero01\\NumeroV2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\options_layout.xml",
+        "source": "D:\\AndroidProject\\Numero01\\NumeroV2\\app\\src\\main\\res\\layout\\options_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Numero01\\NumeroV2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_game.xml",
+        "source": "D:\\AndroidProject\\Numero01\\NumeroV2\\app\\src\\main\\res\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Numero01\\NumeroV2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_menu.xml",
+        "source": "D:\\AndroidProject\\Numero01\\NumeroV2\\app\\src\\main\\res\\layout\\activity_main_menu.xml"
+    }
+]

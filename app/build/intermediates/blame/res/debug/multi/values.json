@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "D:\\AndroidProject\\Numero01\\NumeroV2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 43,
+                    "endOffset": 94
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\Numero01\\NumeroV2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 43,
+                        "endOffset": 56
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 99,
+                    "endColumn": 57,
+                    "endOffset": 152
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\Numero01\\NumeroV2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 123,
+                        "endColumn": 57,
+                        "endOffset": 176
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 157,
+                    "endColumn": 57,
+                    "endOffset": 210
+                },
+                "from": {
+                    "file": "D:\\AndroidProject\\Numero01\\NumeroV2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 64,
+                        "endColumn": 57,
+                        "endOffset": 117
+                    }
+                }
+            }
+        ]
+    }
+]
