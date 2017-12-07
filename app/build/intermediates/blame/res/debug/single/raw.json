@@ -24,8 +24,24 @@
         "source": "F:\\AndroidStudioProjects\\numeroV2\\app\\src\\main\\res\\raw\\lose.mp3"
     },
     {
+        "merged": "F:\\AndroidStudioProjects\\Numero_Project\\app\\build\\intermediates\\res\\merged\\debug\\raw\\file.json",
+        "source": "F:\\AndroidStudioProjects\\Numero_Project\\app\\src\\main\\res\\raw\\file.json"
+    },
+    {
         "merged": "D:\\AndroidProject\\Numero01\\NumeroV2\\app\\build\\intermediates\\res\\merged\\debug\\raw\\win.wav",
         "source": "D:\\AndroidProject\\Numero01\\NumeroV2\\app\\src\\main\\res\\raw\\win.wav"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Numero_Project\\app\\build\\intermediates\\res\\merged\\debug\\raw\\fall.mp3",
+        "source": "F:\\AndroidStudioProjects\\Numero_Project\\app\\src\\main\\res\\raw\\fall.mp3"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Numero_Project\\app\\build\\intermediates\\res\\merged\\debug\\raw\\win.wav",
+        "source": "F:\\AndroidStudioProjects\\Numero_Project\\app\\src\\main\\res\\raw\\win.wav"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Numero_Project\\app\\build\\intermediates\\res\\merged\\debug\\raw\\lose.mp3",
+        "source": "F:\\AndroidStudioProjects\\Numero_Project\\app\\src\\main\\res\\raw\\lose.mp3"
     },
     {
         "merged": "D:\\AndroidProject\\Numero01\\NumeroV2\\app\\build\\intermediates\\res\\merged\\debug\\raw\\hit.mp3",
@@ -34,6 +50,10 @@
     {
         "merged": "F:\\AndroidStudioProjects\\numeroV2\\app\\build\\intermediates\\res\\merged\\debug\\raw\\fall.mp3",
         "source": "F:\\AndroidStudioProjects\\numeroV2\\app\\src\\main\\res\\raw\\fall.mp3"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Numero_Project\\app\\build\\intermediates\\res\\merged\\debug\\raw\\hit.mp3",
+        "source": "F:\\AndroidStudioProjects\\Numero_Project\\app\\src\\main\\res\\raw\\hit.mp3"
     },
     {
         "merged": "D:\\AndroidProject\\Numero01\\NumeroV2\\app\\build\\intermediates\\res\\merged\\debug\\raw\\lose.mp3",

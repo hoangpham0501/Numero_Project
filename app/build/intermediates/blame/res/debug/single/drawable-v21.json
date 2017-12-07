@@ -8,11 +8,27 @@
         "source": "C:\\Users\\hoang\\.android\\build-cache\\d547267096adc7aaa1c5529eaf408eb148fe7b4b\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
     {
+        "merged": "F:\\AndroidStudioProjects\\Numero_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\hoang\\.android\\build-cache\\d547267096adc7aaa1c5529eaf408eb148fe7b4b\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
         "merged": "F:\\AndroidStudioProjects\\numeroV2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
         "source": "C:\\Users\\hoang\\.android\\build-cache\\d547267096adc7aaa1c5529eaf408eb148fe7b4b\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
         "merged": "F:\\AndroidStudioProjects\\numeroV2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
         "source": "C:\\Users\\hoang\\.android\\build-cache\\d547267096adc7aaa1c5529eaf408eb148fe7b4b\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Numero_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\hoang\\.android\\build-cache\\d547267096adc7aaa1c5529eaf408eb148fe7b4b\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Numero_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\hoang\\.android\\build-cache\\d547267096adc7aaa1c5529eaf408eb148fe7b4b\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Numero_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\hoang\\.android\\build-cache\\d547267096adc7aaa1c5529eaf408eb148fe7b4b\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
     }
 ]
