@@ -11,7 +11,7 @@ NUMERO:
 ## How to play "NUMERO"
 * Touch the bubbles of numbers in the right order
 * You will score some points after each correct choice
-* Game will end when there are no numbers lefft or time running out
+* Game will end when there are no numbers left or time running out
 ### Mode Games:
 NUMERO has 2 mode:
 * **Classical**
