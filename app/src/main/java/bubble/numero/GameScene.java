@@ -54,7 +54,7 @@ public class GameScene extends Scene {
         score = 0;
         numOfBubble = 0;
         bubbleSize = getWidth() / numOfBubbPerRow;
-        bubbleMap = BitmapFactory.decodeResource(resources, R.drawable.numero_bubble);
+        bubbleMap = BitmapFactory.decodeResource(resources, R.drawable.numero_bubble3);
 
         bubbleHight = bubbleMap.getHeight() / 5;
         bubbleWight = bubbleMap.getWidth() / 4;
@@ -100,7 +100,7 @@ public class GameScene extends Scene {
         clayer = new Layer();
         getLayerManager().addLayer(clayer);
 
-        ts = new TextSprite(null, "TIME REMAINING: " + insertSpace(countdown/onesec) + (countdown/onesec) + "         SCORE: " + score, 0, getHeigth(), Color.GREEN);
+        ts = new TextSprite(null, "TIME REMAINING: " + insertSpace(countdown/onesec) + (countdown/onesec) + "         SCORE: " + score, 30, getHeigth()-20, Color.BLACK);
         clayer.addSprite(ts);
 
 //	   layer.addSprite(ts);
@@ -168,7 +168,7 @@ public class GameScene extends Scene {
         if (countdown % onesec == 0) {
             // Update countdown
             int cntdwnpersec = countdown / onesec;
-            ts.setColor(Color.GREEN);
+            ts.setColor(Color.BLACK);
             if (cntdwnpersec <= 10 && cntdwnpersec % 2 == 0) {
                 ts.setColor(Color.RED);
             }
@@ -206,6 +206,7 @@ public class GameScene extends Scene {
                         if (array[i][j].getNumber() != nextNum) {
                             countdown -= 3 * onesec;
                         } else {
+                            GameActivity.popPlayer.start();
 //                        System.out.println("Bubble number: " + array[i][j].number);
                             layer.removeSprite(array[i][j].sprite);
                             array[i][j] = null;

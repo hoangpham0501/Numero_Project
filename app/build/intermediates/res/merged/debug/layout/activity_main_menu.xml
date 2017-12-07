@@ -13,9 +13,9 @@
         android:id="@+id/btnclassical"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="@drawable/numero_btn_play_classical"
+        android:background="@drawable/numero_btn_play_classical2"
         android:onClick="classicalButton"
-        android:layout_marginTop="110dp"
+        android:layout_marginTop="120dp"
         android:layout_marginLeft="30dp"
         android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"
@@ -25,12 +25,12 @@
         android:id="@+id/btnchallenge"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="@drawable/numero_btn_play_challenge"
+        android:background="@drawable/numero_btn_play_challenge2"
         android:onClick="challengeButton"
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
         android:layout_marginRight="30dp"
-        android:layout_marginBottom="20dp" />
+        android:layout_marginBottom="30dp" />
 
 
 </RelativeLayout>

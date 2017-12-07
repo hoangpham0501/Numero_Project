@@ -1,31 +1,43 @@
 [
     {
-        "merged": "F:\\AndroidStudioProjects\\numeroV2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\numero_gameplay_bg_level_7.png",
-        "source": "F:\\AndroidStudioProjects\\numeroV2\\app\\src\\main\\res\\drawable-ldpi\\numero_gameplay_bg_level_7.png"
+        "merged": "D:\\numero\\Numero_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\numero_btn_play_classical.png",
+        "source": "D:\\numero\\Numero_Project\\app\\src\\main\\res\\drawable-ldpi\\numero_btn_play_classical.png"
+    },
+    {
+        "merged": "D:\\numero\\Numero_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\numero_bubble.png",
+        "source": "D:\\numero\\Numero_Project\\app\\src\\main\\res\\drawable-ldpi\\numero_bubble.png"
     },
     {
         "merged": "F:\\AndroidStudioProjects\\numeroV2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\lose.png",
         "source": "F:\\AndroidStudioProjects\\numeroV2\\app\\src\\main\\res\\drawable-ldpi\\lose.png"
     },
     {
-        "merged": "F:\\AndroidStudioProjects\\numeroV2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\win.png",
-        "source": "F:\\AndroidStudioProjects\\numeroV2\\app\\src\\main\\res\\drawable-ldpi\\win.png"
+        "merged": "D:\\numero\\Numero_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\bubble.png",
+        "source": "D:\\numero\\Numero_Project\\app\\src\\main\\res\\drawable-ldpi\\bubble.png"
+    },
+    {
+        "merged": "D:\\numero\\Numero_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\win.png",
+        "source": "D:\\numero\\Numero_Project\\app\\src\\main\\res\\drawable-ldpi\\win.png"
     },
     {
         "merged": "F:\\AndroidStudioProjects\\Numero_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\numero_btn_play_classical.png",
         "source": "F:\\AndroidStudioProjects\\Numero_Project\\app\\src\\main\\res\\drawable-ldpi\\numero_btn_play_classical.png"
     },
     {
+        "merged": "F:\\AndroidStudioProjects\\numeroV2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\win.png",
+        "source": "F:\\AndroidStudioProjects\\numeroV2\\app\\src\\main\\res\\drawable-ldpi\\win.png"
+    },
+    {
         "merged": "F:\\AndroidStudioProjects\\Numero_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\numero_gameplay_bg_level_7.png",
         "source": "F:\\AndroidStudioProjects\\Numero_Project\\app\\src\\main\\res\\drawable-ldpi\\numero_gameplay_bg_level_7.png"
     },
     {
-        "merged": "D:\\AndroidProject\\Numero01\\NumeroV2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\lose.png",
-        "source": "D:\\AndroidProject\\Numero01\\NumeroV2\\app\\src\\main\\res\\drawable-ldpi\\lose.png"
-    },
-    {
         "merged": "F:\\AndroidStudioProjects\\Numero_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\logo.png",
         "source": "F:\\AndroidStudioProjects\\Numero_Project\\app\\src\\main\\res\\drawable-ldpi\\logo.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Numero01\\NumeroV2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\lose.png",
+        "source": "D:\\AndroidProject\\Numero01\\NumeroV2\\app\\src\\main\\res\\drawable-ldpi\\lose.png"
     },
     {
         "merged": "F:\\AndroidStudioProjects\\Numero_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\bubble.png",
@@ -40,8 +52,12 @@
         "source": "D:\\AndroidProject\\Numero01\\NumeroV2\\app\\src\\main\\res\\drawable-ldpi\\bubble.png"
     },
     {
-        "merged": "D:\\AndroidProject\\Numero01\\NumeroV2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\stock_draw_sphere.png",
-        "source": "D:\\AndroidProject\\Numero01\\NumeroV2\\app\\src\\main\\res\\drawable-ldpi\\stock_draw_sphere.png"
+        "merged": "D:\\numero\\Numero_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\lose.png",
+        "source": "D:\\numero\\Numero_Project\\app\\src\\main\\res\\drawable-ldpi\\lose.png"
+    },
+    {
+        "merged": "D:\\numero\\Numero_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\numero_gameplay_bg_level_7.png",
+        "source": "D:\\numero\\Numero_Project\\app\\src\\main\\res\\drawable-ldpi\\numero_gameplay_bg_level_7.png"
     },
     {
         "merged": "F:\\AndroidStudioProjects\\numeroV2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\numero_btn_play_classical.png",
@@ -52,12 +68,8 @@
         "source": "F:\\AndroidStudioProjects\\numeroV2\\app\\src\\main\\res\\drawable-ldpi\\bubble.png"
     },
     {
-        "merged": "F:\\AndroidStudioProjects\\Numero_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\numero_btn_play_challenge.png",
-        "source": "F:\\AndroidStudioProjects\\Numero_Project\\app\\src\\main\\res\\drawable-ldpi\\numero_btn_play_challenge.png"
-    },
-    {
-        "merged": "F:\\AndroidStudioProjects\\Numero_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\win.png",
-        "source": "F:\\AndroidStudioProjects\\Numero_Project\\app\\src\\main\\res\\drawable-ldpi\\win.png"
+        "merged": "D:\\numero\\Numero_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\logo.png",
+        "source": "D:\\numero\\Numero_Project\\app\\src\\main\\res\\drawable-ldpi\\logo.png"
     },
     {
         "merged": "F:\\AndroidStudioProjects\\numeroV2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\stock_draw_sphere.png",
@@ -68,6 +80,10 @@
         "source": "F:\\AndroidStudioProjects\\Numero_Project\\app\\src\\main\\res\\drawable-ldpi\\numero_mainmenu.png"
     },
     {
+        "merged": "D:\\numero\\Numero_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\numero_mainmenu.png",
+        "source": "D:\\numero\\Numero_Project\\app\\src\\main\\res\\drawable-ldpi\\numero_mainmenu.png"
+    },
+    {
         "merged": "D:\\AndroidProject\\Numero01\\NumeroV2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\numero_gameplay_bg_level_7.png",
         "source": "D:\\AndroidProject\\Numero01\\NumeroV2\\app\\src\\main\\res\\drawable-ldpi\\numero_gameplay_bg_level_7.png"
     },
@@ -76,40 +92,20 @@
         "source": "F:\\AndroidStudioProjects\\numeroV2\\app\\src\\main\\res\\drawable-ldpi\\numero_bubble.png"
     },
     {
-        "merged": "D:\\AndroidProject\\Numero01\\NumeroV2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\numero_btn_play_classical.png",
-        "source": "D:\\AndroidProject\\Numero01\\NumeroV2\\app\\src\\main\\res\\drawable-ldpi\\numero_btn_play_classical.png"
-    },
-    {
         "merged": "D:\\AndroidProject\\Numero01\\NumeroV2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\numero_gameplay_bg.png",
         "source": "D:\\AndroidProject\\Numero01\\NumeroV2\\app\\src\\main\\res\\drawable-ldpi\\numero_gameplay_bg.png"
-    },
-    {
-        "merged": "F:\\AndroidStudioProjects\\numeroV2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\numero_mainmenu.png",
-        "source": "F:\\AndroidStudioProjects\\numeroV2\\app\\src\\main\\res\\drawable-ldpi\\numero_mainmenu.png"
     },
     {
         "merged": "F:\\AndroidStudioProjects\\Numero_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\numero_gameplay_bg.png",
         "source": "F:\\AndroidStudioProjects\\Numero_Project\\app\\src\\main\\res\\drawable-ldpi\\numero_gameplay_bg.png"
     },
     {
-        "merged": "D:\\AndroidProject\\Numero01\\NumeroV2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\numero_bubble.png",
-        "source": "D:\\AndroidProject\\Numero01\\NumeroV2\\app\\src\\main\\res\\drawable-ldpi\\numero_bubble.png"
-    },
-    {
-        "merged": "D:\\AndroidProject\\Numero01\\NumeroV2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\logo.png",
-        "source": "D:\\AndroidProject\\Numero01\\NumeroV2\\app\\src\\main\\res\\drawable-ldpi\\logo.png"
-    },
-    {
         "merged": "F:\\AndroidStudioProjects\\Numero_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\lose.png",
         "source": "F:\\AndroidStudioProjects\\Numero_Project\\app\\src\\main\\res\\drawable-ldpi\\lose.png"
     },
     {
-        "merged": "F:\\AndroidStudioProjects\\Numero_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\stock_draw_sphere.png",
-        "source": "F:\\AndroidStudioProjects\\Numero_Project\\app\\src\\main\\res\\drawable-ldpi\\stock_draw_sphere.png"
-    },
-    {
-        "merged": "F:\\AndroidStudioProjects\\numeroV2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\numero_btn_play_challenge.png",
-        "source": "F:\\AndroidStudioProjects\\numeroV2\\app\\src\\main\\res\\drawable-ldpi\\numero_btn_play_challenge.png"
+        "merged": "D:\\AndroidProject\\Numero01\\NumeroV2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\logo.png",
+        "source": "D:\\AndroidProject\\Numero01\\NumeroV2\\app\\src\\main\\res\\drawable-ldpi\\logo.png"
     },
     {
         "merged": "D:\\AndroidProject\\Numero01\\NumeroV2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\win.png",
@@ -128,7 +124,71 @@
         "source": "D:\\AndroidProject\\Numero01\\NumeroV2\\app\\src\\main\\res\\drawable-ldpi\\numero_btn_play_challenge.png"
     },
     {
+        "merged": "D:\\numero\\Numero_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\numero_btn_play_challenge.png",
+        "source": "D:\\numero\\Numero_Project\\app\\src\\main\\res\\drawable-ldpi\\numero_btn_play_challenge.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\numeroV2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\numero_gameplay_bg_level_7.png",
+        "source": "F:\\AndroidStudioProjects\\numeroV2\\app\\src\\main\\res\\drawable-ldpi\\numero_gameplay_bg_level_7.png"
+    },
+    {
+        "merged": "D:\\numero\\Numero_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\numero_bubble2.png",
+        "source": "D:\\numero\\Numero_Project\\app\\src\\main\\res\\drawable-ldpi\\numero_bubble2.png"
+    },
+    {
+        "merged": "D:\\numero\\Numero_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\numero_btn_play_classical2.png",
+        "source": "D:\\numero\\Numero_Project\\app\\src\\main\\res\\drawable-ldpi\\numero_btn_play_classical2.png"
+    },
+    {
+        "merged": "D:\\numero\\Numero_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\stock_draw_sphere.png",
+        "source": "D:\\numero\\Numero_Project\\app\\src\\main\\res\\drawable-ldpi\\stock_draw_sphere.png"
+    },
+    {
+        "merged": "D:\\numero\\Numero_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\numero_gameplay_bg.png",
+        "source": "D:\\numero\\Numero_Project\\app\\src\\main\\res\\drawable-ldpi\\numero_gameplay_bg.png"
+    },
+    {
+        "merged": "D:\\numero\\Numero_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\numero_bubble3.png",
+        "source": "D:\\numero\\Numero_Project\\app\\src\\main\\res\\drawable-ldpi\\numero_bubble3.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Numero01\\NumeroV2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\stock_draw_sphere.png",
+        "source": "D:\\AndroidProject\\Numero01\\NumeroV2\\app\\src\\main\\res\\drawable-ldpi\\stock_draw_sphere.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Numero_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\numero_btn_play_challenge.png",
+        "source": "F:\\AndroidStudioProjects\\Numero_Project\\app\\src\\main\\res\\drawable-ldpi\\numero_btn_play_challenge.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Numero_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\win.png",
+        "source": "F:\\AndroidStudioProjects\\Numero_Project\\app\\src\\main\\res\\drawable-ldpi\\win.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Numero01\\NumeroV2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\numero_btn_play_classical.png",
+        "source": "D:\\AndroidProject\\Numero01\\NumeroV2\\app\\src\\main\\res\\drawable-ldpi\\numero_btn_play_classical.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\numeroV2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\numero_mainmenu.png",
+        "source": "F:\\AndroidStudioProjects\\numeroV2\\app\\src\\main\\res\\drawable-ldpi\\numero_mainmenu.png"
+    },
+    {
+        "merged": "D:\\AndroidProject\\Numero01\\NumeroV2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\numero_bubble.png",
+        "source": "D:\\AndroidProject\\Numero01\\NumeroV2\\app\\src\\main\\res\\drawable-ldpi\\numero_bubble.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\Numero_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\stock_draw_sphere.png",
+        "source": "F:\\AndroidStudioProjects\\Numero_Project\\app\\src\\main\\res\\drawable-ldpi\\stock_draw_sphere.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\numeroV2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\numero_btn_play_challenge.png",
+        "source": "F:\\AndroidStudioProjects\\numeroV2\\app\\src\\main\\res\\drawable-ldpi\\numero_btn_play_challenge.png"
+    },
+    {
         "merged": "F:\\AndroidStudioProjects\\Numero_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\numero_bubble.png",
         "source": "F:\\AndroidStudioProjects\\Numero_Project\\app\\src\\main\\res\\drawable-ldpi\\numero_bubble.png"
+    },
+    {
+        "merged": "D:\\numero\\Numero_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\numero_btn_play_challenge2.png",
+        "source": "D:\\numero\\Numero_Project\\app\\src\\main\\res\\drawable-ldpi\\numero_btn_play_challenge2.png"
     }
 ]

@@ -24,11 +24,27 @@
         "source": "C:\\Users\\hoang\\.android\\build-cache\\d547267096adc7aaa1c5529eaf408eb148fe7b4b\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
+        "merged": "D:\\numero\\Numero_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9f77454a4d83f7b2cafb77e932025170cbdbb7d5\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\numero\\Numero_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9f77454a4d83f7b2cafb77e932025170cbdbb7d5\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
         "merged": "F:\\AndroidStudioProjects\\Numero_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
         "source": "C:\\Users\\hoang\\.android\\build-cache\\d547267096adc7aaa1c5529eaf408eb148fe7b4b\\output\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
+        "merged": "D:\\numero\\Numero_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9f77454a4d83f7b2cafb77e932025170cbdbb7d5\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
         "merged": "F:\\AndroidStudioProjects\\Numero_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
         "source": "C:\\Users\\hoang\\.android\\build-cache\\d547267096adc7aaa1c5529eaf408eb148fe7b4b\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\numero\\Numero_Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9f77454a4d83f7b2cafb77e932025170cbdbb7d5\\output\\res\\drawable-v21\\notification_action_background.xml"
     }
 ]

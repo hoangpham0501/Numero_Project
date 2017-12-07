@@ -1832,19 +1832,23 @@ containing a value of this type.
         public static final int notification_bg_normal=0x7f02005c;
         public static final int notification_bg_normal_pressed=0x7f02005d;
         public static final int notification_icon_background=0x7f02005e;
-        public static final int notification_template_icon_bg=0x7f02006a;
-        public static final int notification_template_icon_low_bg=0x7f02006b;
+        public static final int notification_template_icon_bg=0x7f02006e;
+        public static final int notification_template_icon_low_bg=0x7f02006f;
         public static final int notification_tile_bg=0x7f02005f;
         public static final int notify_panel_notification_icon_bg=0x7f020060;
         public static final int numero_btn_play_challenge=0x7f020061;
-        public static final int numero_btn_play_classical=0x7f020062;
-        public static final int numero_bubble=0x7f020063;
-        public static final int numero_gameplay_bg=0x7f020064;
-        public static final int numero_gameplay_bg_level_7=0x7f020065;
-        public static final int numero_mainmenu=0x7f020066;
-        public static final int stock_draw_sphere=0x7f020067;
-        public static final int wall=0x7f020068;
-        public static final int win=0x7f020069;
+        public static final int numero_btn_play_challenge2=0x7f020062;
+        public static final int numero_btn_play_classical=0x7f020063;
+        public static final int numero_btn_play_classical2=0x7f020064;
+        public static final int numero_bubble=0x7f020065;
+        public static final int numero_bubble2=0x7f020066;
+        public static final int numero_bubble3=0x7f020067;
+        public static final int numero_gameplay_bg=0x7f020068;
+        public static final int numero_gameplay_bg_level_7=0x7f020069;
+        public static final int numero_mainmenu=0x7f02006a;
+        public static final int stock_draw_sphere=0x7f02006b;
+        public static final int wall=0x7f02006c;
+        public static final int win=0x7f02006d;
     }
     public static final class id {
         public static final int action0=0x7f0b005c;
@@ -2025,7 +2029,8 @@ containing a value of this type.
         public static final int file=0x7f050001;
         public static final int hit=0x7f050002;
         public static final int lose=0x7f050003;
-        public static final int win=0x7f050004;
+        public static final int pop=0x7f050004;
+        public static final int win=0x7f050005;
     }
     public static final class string {
         public static final int abc_action_bar_home_description=0x7f060000;

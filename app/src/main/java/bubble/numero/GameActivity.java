@@ -18,7 +18,7 @@ public class GameActivity extends Activity {
     public static InputStream inputStream;
     public static GameActivity NumeroActivity ;
     public static MediaPlayer hitPlayer;
-    public static MediaPlayer fallPlayer;
+    public static MediaPlayer popPlayer;
     public static MediaPlayer winPlayer;
     public static MediaPlayer losePlayer;
 
@@ -48,7 +48,7 @@ public class GameActivity extends Activity {
         //create Players
         hitPlayer = MediaPlayer.create(this,R.raw.hit);
         losePlayer = MediaPlayer.create(this,R.raw.lose);
-        fallPlayer = MediaPlayer.create(this,R.raw.fall);
+        popPlayer = MediaPlayer.create(this,R.raw.pop);
         winPlayer = MediaPlayer.create(this,R.raw.win);
     }
 
@@ -72,7 +72,7 @@ public class GameActivity extends Activity {
 
         // release all Players
         hitPlayer.release();
-        fallPlayer.release();
+        popPlayer.release();
         winPlayer.release();
         losePlayer.release();
         // TODO Auto-generated method stub

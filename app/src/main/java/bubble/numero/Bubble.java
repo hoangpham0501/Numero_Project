@@ -17,7 +17,7 @@ public class Bubble {
 	boolean checked ;
 	public Bubble(int x, int y , int color, int num) {
 		sprite = new BubbleTextSprite(BITMAP, String.valueOf(num), GameScene.bubbleWight,
-                                        GameScene.bubbleHight, GameScene.bubbleSize/4, GameScene.bubbleSize*3/4);
+                                        GameScene.bubbleHight, GameScene.bubbleSize/3, GameScene.bubbleSize*3/4);
 		number = num;
 		Intialize(x, y, color);
 	}
@@ -49,8 +49,6 @@ public class Bubble {
 		if (sprite.currentHorFrame == 3)
 			{
 				GameScene.layer.removeSprite(sprite);
-				GameScene.falling.remove(this);
-				GameScene.pool.add(this);
 			}
 		if (timer%5 == 0)
 			sprite.nextHorFrame();

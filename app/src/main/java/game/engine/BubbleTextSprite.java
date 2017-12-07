@@ -16,8 +16,8 @@ public class BubbleTextSprite extends Sprite {
         this.deltaBubbleSizeX = bbSizeX;
         this.deltaBubbleSizeY = bbSizeY;
         paint.setColor(Color.BLACK);
-        paint.setTextSize(40);
-        paint.setShadowLayer(6, 0, 0, Color.WHITE);
+        paint.setTextSize(41);
+        paint.setShadowLayer(6, 0, 0, Color.rgb(180,180,180));
         // TODO Auto-generated constructor stub
     }
     @Override
