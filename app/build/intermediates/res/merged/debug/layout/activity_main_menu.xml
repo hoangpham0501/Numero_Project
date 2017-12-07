@@ -6,7 +6,7 @@
     android:background="@drawable/numero_mainmenu"
     android:gravity="center"
     android:orientation="vertical"
-    tools:context="bubble.shooter.MainMenuActivity"
+    tools:context="bubble.numero.MainMenuActivity"
     android:weightSum="1">
 
     <ImageButton

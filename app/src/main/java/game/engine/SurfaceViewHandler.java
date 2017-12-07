@@ -10,7 +10,7 @@ import android.view.SurfaceView;
 import android.view.View;
 import android.view.View.OnTouchListener;
 
-import bubble.shooter.GameScene;
+import bubble.numero.GameScene;
 
 public class SurfaceViewHandler extends SurfaceView implements
 		SurfaceHolder.Callback ,OnTouchListener {
@@ -43,11 +43,9 @@ public class SurfaceViewHandler extends SurfaceView implements
 	@Override
 	public void surfaceChanged(SurfaceHolder holder, int format, int width,
                                int height) {
-		System.out.println("surface changed  holder:"+holder);
+		System.out.println("surface changed holder:"+holder);
 		cWidth = width;
 		cHeight = height;
-//		System.out.println("cv"+BubbleShootActivity.BubbleActivity.setc);
-//		BubbleShootActivity.BubbleActivity.setContentView(R.layout.game_layout);
 		System.out.println("format: "+ format);
 		System.out.println("scene:"+ scene);
 		if(scene != null){
@@ -76,7 +74,7 @@ public class SurfaceViewHandler extends SurfaceView implements
 
 	@Override
 	public void surfaceDestroyed(SurfaceHolder holder) {
-		System.out.println("surface Destoryed holder:"+holder);
+		System.out.println("surface Destroyed holder:"+holder);
 		boolean retry = true;
 
 		while (retry) {

@@ -63,8 +63,4 @@ public class Scene {
 		 layerManager.render(c);
 			
 	}
-	public void dispChanged() {
-		
-		
-	}
 }

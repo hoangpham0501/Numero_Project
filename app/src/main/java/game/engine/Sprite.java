@@ -15,7 +15,6 @@ public class Sprite {
    public int width;
    public double x;
    public double y;
-   double rotation;
    Paint paint;
    public int dispWidth;
    public int dispHeight;
@@ -54,10 +53,6 @@ public class Sprite {
 	   this.x+=d;
 	   this.y+=e;
    }
-   public void setCurrentFrame(int currentX , int currentY){
-	   this.currentVerFrame =  currentX;
-	   this.currentVerFrame =  currentY;
-   }
    
    public void setCurrentHorFrame(int currentHorFrame) {
 	this.currentHorFrame = currentHorFrame;
@@ -67,21 +62,10 @@ public class Sprite {
 	   if(this.currentHorFrame >= this.noOfHorFrames)
 		   this.currentHorFrame = 0;
    }
-   public void nextVerFrame(){
-	   this.currentVerFrame++;
-	   if(this.currentVerFrame >= this.noOfVerFrames)
-		   this.currentVerFrame =  0;
-   }
    public void setCurrentVerFrame(int currentVerFrame) {
 	this.currentVerFrame = currentVerFrame;
    }
-   
-   public void rotateTo(double degrees){
-	   this.rotation = degrees;
-   }
-   public void rotateBy(double degrees){
-	   this.rotation+=degrees;
-   }
+
    public void render(Canvas c){
 	   if(steps-- > 0){
 //		   System.out.println("x: "+x+" y: "+y+" deltaX: "+deltaX+" deltaY: "+deltaY);
@@ -89,15 +73,14 @@ public class Sprite {
 		   y+=deltaY;
 	   }
 	   src.left = currentHorFrame*width;
-	   src.top = (int) (currentVerFrame*height);
+	   src.top = currentVerFrame*height;
 	   src.right = currentHorFrame*width + width;
-	   src.bottom = (int) (currentVerFrame*height +height);
+	   src.bottom = currentVerFrame*height +height;
 	   dist.left = (int)x;
 	   dist.top = (int) y;
 	   dist.bottom = (int)y+ dispHeight;
 	   dist.right =  (int)x+dispWidth ;
 	   c.drawBitmap(image,src,dist, paint);
-
    }
 
 

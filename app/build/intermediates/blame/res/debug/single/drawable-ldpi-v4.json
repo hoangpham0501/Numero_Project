@@ -6,5 +6,13 @@
     {
         "merged": "D:\\AndroidProject\\Numero01\\NumeroV2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\wall.jpg",
         "source": "D:\\AndroidProject\\Numero01\\NumeroV2\\app\\src\\main\\res\\drawable-ldpi\\wall.jpg"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\numeroV2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\mainmenu_background.jpg",
+        "source": "F:\\AndroidStudioProjects\\numeroV2\\app\\src\\main\\res\\drawable-ldpi\\mainmenu_background.jpg"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\numeroV2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\wall.jpg",
+        "source": "F:\\AndroidStudioProjects\\numeroV2\\app\\src\\main\\res\\drawable-ldpi\\wall.jpg"
     }
 ]

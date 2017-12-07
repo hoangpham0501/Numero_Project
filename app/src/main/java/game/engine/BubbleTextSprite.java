@@ -8,6 +8,8 @@ public class BubbleTextSprite extends Sprite {
     public String text;
     public int deltaBubbleSizeX;
     public int deltaBubbleSizeY;
+    int sizePerChar = 7;
+
     public BubbleTextSprite(Bitmap image, String text, int width, int height, int bbSizeX, int bbSizeY) {
         super(image, width, height);
         this.text = text;
@@ -34,7 +36,8 @@ public class BubbleTextSprite extends Sprite {
         dist.bottom = (int)y+ dispHeight;
         dist.right =  (int)x+dispWidth ;
         c.drawBitmap(image,src,dist, paint);
-        c.drawText(text,(float)(x+deltaX+deltaBubbleSizeX),(float)(y+deltaY+deltaBubbleSizeY) , paint);
+        c.drawText(text,(float)(x+deltaX+(deltaBubbleSizeX-sizePerChar*text.length()/2)),
+                        (float)(y+deltaY+deltaBubbleSizeY-sizePerChar*2) , paint);
 
     }
 
